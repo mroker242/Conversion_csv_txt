@@ -6,6 +6,6 @@ Using **python**, **Flask**, **Pandas**, **Bootstrap CDN**.
 
 ## Instructions
 
-- install Python 3
-- install Flask Framework
-- install Pandas
+- install Python 3 `pip install python`
+- install Flask Framework `pip install Flask`
+- install Pandas `pip install pandas`
